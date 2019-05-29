@@ -4,5 +4,10 @@ This is Yuka's edit20190529.txt
 test.txt
 testfile.txt
 This is Yuka's edit
+<<<<<<< HEAD
 No this is Nick's edit
 
+=======
+This is Yuka's second edit
+No this is Nick's edit
+>>>>>>> 648958b7891c3be3ea48051f261ab02d670b2394
