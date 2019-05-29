@@ -1,7 +1,11 @@
 Hello!
 20190529
 
+<<<<<<< HEAD
 This is the update from Guan!
+=======
+This is Dan's edit on Guans file!
+>>>>>>> 0c4d63021e836230fb1ad81bea1591d55ce9b09a
 This is Yuka's edit
 This is Yuka's second edit
 No this is Nick's edit
